@@ -120,7 +120,7 @@ Reveal.initialize({
   // Opens links in an iframe preview overlay
   previewLinks: false,
   // Transition style
-  transition: 'slide', // none/fade/slide/convex/concave/zoom
+  transition: 'convex', // none/fade/slide/convex/concave/zoom
   // Transition speed
   transitionSpeed: 'default', // default/fast/slow
   // Transition style for full page slide backgrounds
